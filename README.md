@@ -2,9 +2,10 @@
 This is the synthetized dataset used for paper "Integrated Communication and Learned Recognizer with Customized RIS Phases and Sensing Durations".
 
 The dataset inludes five kinds of objects: toy-car, human, pet, pot-plant, and table. Each of them possesses 1,200 gray images. Thus, the dataset is composed of 6,000 images.
+Each of the images has been resized to 30x30.
 This dataset can be utilized for training classification networks with radios signals, as studied in our paper.
 
-The images of the categories of toy-car, human, pet, and pot-plant originates from segmentation datasets in Kaggle:
+The original images of the categories of toy-car, human, pet, and pot-plant comes from segmentation datasets in Kaggle:
 
 toy-car: "Carvana image masking challenge," https://www.kaggle.com/c/carvana-image-masking-challenge
 
